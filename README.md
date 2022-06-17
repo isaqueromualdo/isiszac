@@ -1,4 +1,4 @@
-👋 I'm Isaque
+👋 Hi, I'm Isaque
 
 - 👨‍💻 I am a student of the 1st, Information System
 - 👨‍🎓📊 With technical high school in Administration
