@@ -1,6 +1,6 @@
 👋 Hi, I'm Isaque
 
-- 👨‍💻 I am a student of the 1st, Information System
+- 👨‍💻 I'm an information system student 
 - 👨‍🎓📊 With technical high school in Administration
 
 and well, that's all lol
