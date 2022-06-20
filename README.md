@@ -1,6 +1,6 @@
 👋 Olá, Isaque aqui
 
-- 👨‍💻 Sou estudante Bacharelado em Sistema de Informção 
+- 👨‍💻 Sou estudante Bacharelado em Sistema de Informação 
 - 👨‍🎓📊 com ensino médio técnico em Administração
 
 e bem, isso é tudo hahha
