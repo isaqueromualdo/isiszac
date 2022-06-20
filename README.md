@@ -1,4 +1,4 @@
-👋 Olá, eu sou Isaque
+👋 Olá, Isaque aqui
 
 - 👨‍💻 Sou estudante Bacharelado em Sistema de Informção 
 - 👨‍🎓📊 Com ensino médio técnico em Administração
