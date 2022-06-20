@@ -3,7 +3,7 @@
 - 👨‍💻 Sou estudante Bacharelado em Sistema de Informção 
 - 👨‍🎓📊 Com ensino médio técnico em Administração
 
-ae bem, isso é tudo hahha
+e bem, isso é tudo hahha
 
 <!---
 isiszac/isiszac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
