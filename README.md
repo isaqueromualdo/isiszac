@@ -1,9 +1,9 @@
-👋 Hi, I'm Isaque
+👋 Olá, eu sou Isaque
 
-- 👨‍💻 I'm an information system student 
-- 👨‍🎓📊 With technical high school in Administration
+- 👨‍💻 Sou estudante Bacharelado em Sistema de Informção 
+- 👨‍🎓📊 Com ensino médio técnico em Administração
 
-and well, that's all lol
+ae bem, isso é tudo hahha
 
 <!---
 isiszac/isiszac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
